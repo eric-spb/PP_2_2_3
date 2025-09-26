@@ -1,2 +1,3 @@
 # PP_2_2_3
-CRUD
+# CRUD app is working now!
+# Also connected to DB and can updated it, finally...
